@@ -6,7 +6,7 @@ servers = [4795] #use Teklinks in Birmingham,AL
 # If you want to test against a specific server
 # servers = [1234]
 
-file = '/etc/cron.d/speedtest.csv'
+file = '/etc/cron.d/speedtest.csv' #change this to your csv path
 
 #print "Starting speedtest......"
 
