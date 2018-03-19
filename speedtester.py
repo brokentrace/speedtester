@@ -28,10 +28,12 @@ workfile = open(file, 'a')
 workfile.write(entry)
 workfile.close
 
-#print "Speedtest Results"
-#print "Timestamp: " + str(results['timestamp'])
-#print "Ping: " + str(results['ping'])
-#print "Download: " + str(download)
-#print "Upload: " + str(upload)
-#print "Server: " + server['sponsor']
-#print entry
+'''
+print "Speedtest Results"
+print "Timestamp: " + str(results['timestamp'])
+print "Ping: " + str(results['ping'])
+print "Download: " + str(download)
+print "Upload: " + str(upload)
+print "Server: " + server['sponsor']
+print entry
+'''
